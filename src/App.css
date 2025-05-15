@@ -3,47 +3,47 @@ body {
   padding: 0;
   overflow-x: hidden;
   background: linear-gradient(to bottom, #ffe4e1, #fff);
-  font-family: 'Inter', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  color: #333;
+  line-height: 1.6;
 }
 
-.app {
+h1, h2 {
+  font-family: 'Dancing Script', cursive;
+  color: #d6336c;
   text-align: center;
-  padding: 40px;
-}
-
-h1 {
-  color: #ff3366;
   font-size: 2.5rem;
-  margin-bottom: 20px;
+  margin-top: 30px;
 }
 
 .romantic-img {
-  width: 300px;
-  border-radius: 15px;
-  box-shadow: 0 0 10px #ff3366;
-  margin-bottom: 20px;
+  display: block;
+  max-width: 20%;
+  margin: 20px auto;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
 .dedication {
   font-size: 1.2rem;
-  color: #333;
   max-width: 600px;
-  margin: 0 auto;
-  background: #fff0f5;
+  margin: 20px auto;
   padding: 20px;
-  border-radius: 15px;
-  box-shadow: 0 0 10px #ffc0cb;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  line-height: 1.8;
 }
 
 /* Corazones que caen */
 .heart {
   position: fixed;
   top: -30px;
-  pointer-events: none;
-  z-index: 9999;
-  animation: fall linear forwards;
+  animation: fall linear;
   color: red;
-  left: 0;
+  z-index: 9999;
+  pointer-events: none;
 }
 
 @keyframes fall {
