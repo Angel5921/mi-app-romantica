@@ -38,7 +38,7 @@ function App() {
         empecé a disfrutar cada dia de mi vida porque estas tú mi reina, empecé a sonreir bien bonito, a ser felíz,
         empecé a enamorarme de ti de maneras increibles, me empecé a preocupar por ti cuando nunca me preocupe por nadie más,
         todo a tu lado se volvio precioso y importante. <br /> 
-        Logras que mis dias sean maravillosos y increibles porquete encuentras en mi vida, como la más grande bendición y la señal de dios de que si puedo ser feliz,
+        Logras que mis dias sean maravillosos y increibles porque te encuentras en mi vida, como la más grande bendición y la señal de dios de que si puedo ser feliz,
         porque mira junto mi camino con el amor de mi vida, para hacerme saber que si existias y que llegarias,
         amo como conectamos tan hermoso y como somos el uno para el otro, amo estar a tu lado, en mi lugar seguro,
         con la mujer de mi vida, el amor de mi vida, la mujer que siempre anhele tan maravillosa y increible,
