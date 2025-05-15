@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: linear-gradient(to bottom, #ffe4e1, #fff);
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.app {
+  text-align: center;
+  padding: 40px;
+}
+
+h1 {
+  color: #ff3366;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.romantic-img {
+  width: 300px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #ff3366;
+  margin-bottom: 20px;
+}
+
+.dedication {
+  font-size: 1.2rem;
+  color: #333;
+  max-width: 600px;
+  margin: 0 auto;
+  background: #fff0f5;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #ffc0cb;
+}
+
+/* Corazones que caen */
+.heart {
+  position: fixed;
+  top: -30px;
+  pointer-events: none;
+  z-index: 9999;
+  animation: fall linear forwards;
+  color: red;
+  left: 0;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(100vh);
+    opacity: 0;
+  }
+}
