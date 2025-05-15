@@ -46,7 +46,7 @@ function App() {
 
         Me enamore perdidamente de ti mi niña linda y sigo haciendolo, es increible el huracan de sentimientos que generas en mi,
         me encanta todo lo que me haces sentir, me haces inmensamente feliz y te amo mas alla de lo que podemos imaginar,
-        simplemente te amo mucho y cada latido de mi corazón vive asegurandolo..
+        simplemente te amo mucho y cada latido de mi corazón vive asegurandolo.. <br />
         Gracias por seguir demostrandome que el amor existe porque el mio esta en tus brazos asi como mi hogar,
         asi como agradecerte que vives eligiendome dia con dia y eligiendo amarme incondicionalemnte con tanta intensidad, 
         asi como eligiendo estar a mi lado y no en otro lugar.. <br />
